@@ -219,7 +219,7 @@ class BmiCalculatorPageState extends State<BmiCalculatorPage> {
     } else if (result < 18) {
       healthType = "Underweight";
       bgColor = Colors.blue.shade200;
-      imageAsset = 'assets/images/bg_underweight.png';
+      imageAsset = 'assets/images/underweighttt.jpg';
     } else {
       healthType = "Healthy";
       bgColor = Colors.green.shade200;
